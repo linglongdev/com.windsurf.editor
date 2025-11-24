@@ -3,7 +3,7 @@ version: "1"
 package:
   id: com.windsurf.editor
   name: Windsurf editor
-  version: 1.12.18.0
+  version: 1.12.35.0
   kind: app
   description: |
     The Windsurf Editor is built to keep you in flow state. Instant, invaluable
@@ -15,8 +15,8 @@ base: org.deepin.base/25.2.1
 
 sources:
   - kind: file
-    url: https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/apt/pool/main/w/windsurf/Windsurf-linux-x64-1.12.18.deb
-    digest: 7b236a2ad8c4d570fb5a71bc145703c14ad3469c405bd2c9b58de97090f099d2
+    url: https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/apt/pool/main/w/windsurf/Windsurf-linux-x64-1.12.35.deb
+    digest: 567b6f61b37389dc1e6c4c887f55f86613023be203d7a30c65b7e27357d070f2
     name: windsurf.deb
 
 build: |
